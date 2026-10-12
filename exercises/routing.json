@@ -1,0 +1,10 @@
+{
+  "BasicCalculate_b1": {
+    "lengthChain": ["s"],
+    "changeConnection": ["s1", "s2"]
+  },
+  "BasicCalculate_b2": {
+    "lengthChain": ["s"],
+    "changeConnection": ["s1", "s2"]
+  }
+}

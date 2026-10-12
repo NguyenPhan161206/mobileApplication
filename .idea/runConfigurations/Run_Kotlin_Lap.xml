@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run Kotlin Lap" type="JetRunConfigurationType" factoryName="Kotlin" nameIsGenerated="false">
+    <module name="kotlin_lap" />
+    <option name="MAIN_CLASS_NAME" value="ExerciseKt" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

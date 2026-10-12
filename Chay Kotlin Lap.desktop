@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Chay Kotlin Lap
+Comment=Bien dich va chay chuong trinh Kotlin Lap
+Exec=/home/binhnguyen/Downloads/kotlin_lap/chay.sh
+Path=/home/binhnguyen/Downloads/kotlin_lap
+Terminal=true
+Icon=utilities-terminal
+Categories=Development;

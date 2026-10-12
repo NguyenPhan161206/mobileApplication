@@ -1,0 +1,11 @@
+{
+  "code-runner.runInTerminal": true,
+  "code-runner.saveFileBeforeRun": true,
+  "code-runner.clearPreviousOutput": true,
+  "code-runner.executorMap": {
+    "kotlin": "bash \"$workspaceRoot/chay.sh\""
+  },
+  "code-runner.executorMapByFileExtension": {
+    ".kt": "bash \"$workspaceRoot/chay.sh\""
+  }
+}

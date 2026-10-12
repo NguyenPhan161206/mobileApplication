@@ -1,0 +1,12 @@
+# Build output
+/out/
+/build/
+*.jar
+
+# IDE caches
+.idea/caches/
+.idea/workspace.xml
+.idea/shelf/
+
+# OS
+.DS_Store
